@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lsl/serial_node_divide/cmake-build-debug/devel/setup.sh

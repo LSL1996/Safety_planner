@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hyy/ego_swarm_2021062500/src/realflight_modules/realsense2_camera/build/devel/setup.sh
